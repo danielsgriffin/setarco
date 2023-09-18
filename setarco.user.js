@@ -175,7 +175,7 @@
     // "It's helpful to ask me questions, not just provide advice." - source: https://twitter.com/michael_nielsen/status/1699531826233249970
     const customOrders = [
         "It's helpful to ask me questions, not just provide advice.",
-        "WiWith Paulo Freire's pedagogy in mind, what question could encourage critical reflection? Note: DO NOT mention Paulo Freire's name. Do not simply respond with a question in quotation marks. Include the spirit of the question within your planned response.",
+        "With Paulo Freire's pedagogy in mind, what question could encourage critical reflection? Note: DO NOT mention Paulo Freire's name. Do not simply respond with a question in quotation marks. Include the spirit of the question within your planned response.",
         "Engage me with a Socratic-styled probing question.",
         "Channel the spirit of an annoying but lovable consultant; what critical question would you ask?",
         "What's a deep, reflective question you can ask on this topic?",
