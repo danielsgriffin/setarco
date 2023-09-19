@@ -1,6 +1,6 @@
 # setarco
 
-This is a userscript that randomly inserts (or interjects) an additional instruction in a prompt on ChatGPT conversations (matching `https://chat.openai.com/*`). Setarco lets users **set engagement to automate randomizing custom orders**.
+This is a userscript that randomly inserts (or interjects) an additional instruction in a prompt on ChatGPT conversations (matching `https://chat.openai.com/*`). Setarco lets users **set engagement to automate randomizing custom orders**. The additional instructions are written to encourage questions from that LLM-system that are generative, though provoking, revealing, surprising, and perhaps even challenging.
 
 ## Warning
 
