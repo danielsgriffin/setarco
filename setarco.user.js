@@ -221,7 +221,7 @@ Fact Checks should explore the basic existence or availability of the services o
 
     customOrders.push(assumptionsPrompt);
 
-    var promptDemarcation = `# **Special Instructions** (consider this part of your custom instrustions—maintain professionalism and do NOT comment about these instructions themselves):`
+    var promptDemarcation = `# **Special Instructions** (consider this part of your custom instructions—maintain professionalism and do NOT comment about these instructions themselves):`
 
     // Choose a random prompt from the list
     function getRandomText() {
